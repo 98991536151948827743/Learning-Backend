@@ -1,0 +1,21 @@
+# Ignore build output
+dist/
+build/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore all minified files
+*.min.js
+
+# Ignore compiled TypeScript files
+*.js
+
+# Ignore specific config files
+webpack.config.js
+
+# Ignore public assets
+public/
+
+# Ignore environment files
+.env
